@@ -1,14 +1,16 @@
 My Dream Vacation
 Imagine your ultimate getaway, real or imagined. Describe where you’d go, what you’d do, who you’d take (or if you’d go solo), and what makes this destination special to you. This site is your travel dream board!
 
-1. This site works well with the Showcase Web Page Layout template
-2. The home page (showcase.html) includes a large hero image, short introduction section, and featured sections for additional content, and a card-style layout
-3. Subpages include a details page, image gallery or lists
-4. See the image file "ShowcaseWebpageWireframe.png" for a visual
+1. This site works well with the Showcase Web Page Layout template. See the "Showcase Theme Web" directory and image file "ShowcaseWebpageWireframe.png" for a visual.
+- Purpose: Highlight exciting content with strong visuals and clear sections.
+- Structure:
+  - Navigation Bar: links to home Home, About, Gallery, Contact
+  - Hero Section: Large image with a title and subtitle (e.g., "Explore My Dream Vacation")
+  - Featured Cards: Three boxes for key highlights (e.g., destinations, activities, or top picks)
+  - Footer: Contact info, social linis or credits
 
-To help you get started: 
-If you could go anywhere in the world (real or imagined) where would you go?
-Guiding Questions:
+2. To help you get started: 
+- If you could go anywhere in the world (real or imagined) where would you go?
 - What would you do there?
 - Who would you take with you, or would you go solo?
 - What would you pack for this trip?
