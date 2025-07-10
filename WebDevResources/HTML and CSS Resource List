@@ -1,0 +1,89 @@
+Web Sources:
+
+    HTML Cheat Sheet – GeeksforGeeks
+    A quick guide to all the basic HTML tags you'll need to build a webpage. Great for beginners who want to learn or review HTML fast.
+    https://www.geeksforgeeks.org/html/html-cheat-sheet/
+    
+    CSS Cheat Sheet - A Basic Guide to CSS – GeeksforGeeks 
+    A basic yet thorough guide to CSS properties and usage. Great for quick lookups and learning foundational styling techniques.
+    https://www.geeksforgeeks.org/css/css-cheat-sheet-a-basic-guide-to-css/
+
+Printable Sources: 
+
+    HTML Cheatsheet – Stanford.edu https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+    A printable reference sheet summarizing essential HTML tags and structure. Useful for quick offline access.
+    https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+    
+    The Complete HTML Cheat Sheet – Hostinger Tutorials 
+    A detailed PDF covering HTML elements, attributes, and examples. Designed for both learning and revision.
+    https://www3.cs.stonybrook.edu/~pramod.ganapathi/doc/CSE102/CSE102-CheatSheetHTML.pdf
+    
+    CSS Cheatsheet (CSS 1 & 2) – Stanford.edu
+    A concise guide to CSS1 and CSS2 syntax and properties. Helpful for understanding legacy and foundational CSS.
+    https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf
+    
+    CSS Cheat Sheet – Washington.edu
+    A student-friendly CSS reference from a university course. Covers common styling rules and layout techniques.
+    https://courses.cs.washington.edu/courses/cse154/14sp/cheat-sheets/css-cheat-sheet.pdf
+
+    CSS Cheat Sheet - Leslie Franke
+    A visual guide to CSS that shows you how to style your website. Simple and helpful for beginners.
+    https://www.lesliefranke.com/files/reference/csscheatsheet.pdf
+    
+Tutorials and Guidebooks
+
+    HTML – W3Schools
+    An interactive tutorial covering HTML basics to advanced topics. Includes examples and a built-in code editor.
+    https://www.w3schools.com/html/
+
+    HTML & CSS Guidebook – Josiah Spence
+    A structured guidebook offering in-depth explanations of HTML and CSS. Suitable for self-paced learning.
+    https://htmlandcssguidebook.com/
+
+    HTML Complete Guide – GeeksforGeeks
+    A full-spectrum HTML tutorial covering everything from tags to forms. Ideal for learners seeking structured progression.
+    https://www.geeksforgeeks.org/html/html-complete-guide/
+
+    HTML – Codecademy
+    A documentation-style resource with definitions and examples of HTML elements. Great for quick reference.
+    https://www.codecademy.com/resources/docs/html
+
+    CSS Tutorial – W3Schools
+    A beginner-friendly CSS tutorial with interactive examples. Covers styling, layout, and responsive design.
+    https://www.w3schools.com/Css/
+
+    HTML CSS – W3Schools
+    A combined guide showing how HTML and CSS work together. Useful for understanding integration and styling.
+    https://www.w3schools.com/html/html_css.asp
+
+    The Complete HTML Cheat Sheet – Hostinger
+    A downloadable PDF summarizing HTML syntax and usage. Handy for offline study and revision
+    https://assets.hostinger.com/content/tutorials/pdf/HTML-Cheatsheet.pdf
+
+Miscellaneous
+
+    Cascading Style Sheets (CSS) – Mendel Rosenblum
+    A PDF from a college class that explains how CSS works. It’s a bit more advanced but still useful for learning.
+    https://web.stanford.edu/class/cs142/lectures/CSS.pdf
+
+    HTML & CSS cheatsheets – codecademy.com
+    Multiple colorful and easy-to-read cheatsheets covering HTML and CSS. Great for quick reminders or explanations while coding. 
+    https://www.codecademy.com/resources/cheatsheets/language/html-css
+    
+HTML and CSS code validators (free and open-source)
+
+    W3C Markup Validation Service - https://validator.w3.org/
+    What it does: Checks HTML, XHTML, and other markup languages for syntax errors.
+    Why it's great for students: It's the official validator from the World Wide Web Consortium (W3C), easy to use, and supports direct input, file upload, or URL validation. 
+    
+    W3C CSS Validation Service - jigsaw.w3.org/css-validator
+    What it does: Validates CSS stylesheets for errors and compatibility.
+    Why it's great for students: Also from W3C, it helps students understand CSS standards and best practices.
+
+    FreeFormatter HTML Validator - freeformatter.com/html-validator.html
+    What it does: Simple tool for checking HTML code.
+    Why it's great for students: Clean interface and easy to use for quick checks.
+
+    Total Validator (Desktop App) - totalvalidator.com
+    What it does: Offers both online and downloadable tools for validating HTML, CSS, accessibility, and broken links.
+    Why it's great for students: Useful for offline work and more comprehensive testing.
