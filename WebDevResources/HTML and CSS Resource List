@@ -60,16 +60,6 @@ Tutorials and Guidebooks
     A downloadable PDF summarizing HTML syntax and usage. Handy for offline study and revision
     https://assets.hostinger.com/content/tutorials/pdf/HTML-Cheatsheet.pdf
 
-Miscellaneous
-
-    Cascading Style Sheets (CSS) – Mendel Rosenblum
-    A PDF from a college class that explains how CSS works. It’s a bit more advanced but still useful for learning.
-    https://web.stanford.edu/class/cs142/lectures/CSS.pdf
-
-    HTML & CSS cheatsheets – codecademy.com
-    Multiple colorful and easy-to-read cheatsheets covering HTML and CSS. Great for quick reminders or explanations while coding. 
-    https://www.codecademy.com/resources/cheatsheets/language/html-css
-    
 HTML and CSS code validators (free and open-source)
 
     W3C Markup Validation Service - https://validator.w3.org/
@@ -87,3 +77,29 @@ HTML and CSS code validators (free and open-source)
     Total Validator (Desktop App) - totalvalidator.com
     What it does: Offers both online and downloadable tools for validating HTML, CSS, accessibility, and broken links.
     Why it's great for students: Useful for offline work and more comprehensive testing.
+
+Miscellaneous
+
+    How to Structure HTML for Accessibility - GeeksforGeeks
+    This article shows how to organize your HTML so that people with disabilities can use your website more easily. It’s a great way to learn how to make your websites more inclusive.
+    https://www.geeksforgeeks.org/html/how-to-structure-your-html-properly-for-web-accessibility/
+
+    Accessibility Tutorial - W3Schools
+    A beginner-friendly tutorial that explains how to make websites easier to use for everyone, including people with disabilities. It includes examples and tips you can try right away.
+    https://www.w3schools.com/accessibility/index.php
+    
+    Cascading Style Sheets (CSS) – Mendel Rosenblum
+    A PDF from a college class that explains how CSS works. It’s a bit more advanced but still useful for learning.
+    https://web.stanford.edu/class/cs142/lectures/CSS.pdf
+
+    HTML & CSS cheatsheets – codecademy.com
+    Multiple colorful and easy-to-read cheatsheets covering HTML and CSS. Great for quick reminders or explanations while coding. 
+    https://www.codecademy.com/resources/cheatsheets/language/html-css
+
+    Learn HTML - Codecademy
+    This free online course teaches you how to build websites using HTML. It’s interactive and beginner-friendly, making it perfect for high school students who want to learn by doing.
+    https://www.codecademy.com/learn/learn-html
+
+    HTML & CSS Cheatsheets - Codecademy
+    A colorful and easy-to-read reference sheet that shows the most common HTML and CSS tags and rules. Great for quick reminders while you're coding.
+    https://www.codecademy.com/resources/cheatsheets/language/html-css
