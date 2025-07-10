@@ -1,0 +1,15 @@
+Each template offers a different layout and style that can be customizable with basic HTML and CSS. 
+Templates are found at /WebpageTemplates.
+Each template folder contains an overview page, an index.html file, an external css file and a wireframe image.
+
+Why These Templates Work for High School Students: 
+- Encourage self-expression and reflection on their interests, goals and achievements.
+- Scaffolds learning by providing "starter" templates with comments and placeholders.
+- Allows students to personalize the content and design, which boosts motivation and ownership
+- Reinforces core HTML and CSS concepts like structure, styling, and layout.
+- Introduces real-world application like building a personal brand or presenting information clearly
+
+Additional Information
+- Beginner-friendly: a nearly complete template students can easily modify with content and styles.
+- Intermediate: students can add additional pages or build out sections with their own HTML and CSS
+- Advanced: students can integrate advanced concepts and elements (e.g., flexbox/grid, media queries, or light JavaScript) for interactivity
