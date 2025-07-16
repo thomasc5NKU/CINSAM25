@@ -78,6 +78,17 @@ HTML and CSS code validators (free and open-source)
     What it does: Offers both online and downloadable tools for validating HTML, CSS, accessibility, and broken links.
     Why it's great for students: Useful for offline work and more comprehensive testing.
 
+Hexadecimal Color 
+
+    W3Schools: Hexadecimal Colors - https://www.w3schools.com/colors/colors_hexadecimal.asp
+    A beginner-friendly guide with interactive examples and a full color chart. It explains how hex codes work and lets students try them out in real time.
+
+    Empire State University: Use of Color on the Web - https://alp.sunyempire.edu/its/web-standards/site-standards/design-standards/web-colors/
+    Offers a practical guide to using color accessibly, including a list of approved hex codes and tips for contrast and readability.
+
+    MDN Web Docs: <hex-color> in CSS - https://developer.mozilla.org/en-US/docs/Web/CSS/hex-color
+    A more technical but reliable reference for how hexadecimal color values are used in CSS. Great for students who want to go deeper.
+
 Miscellaneous
 
     How to Structure HTML for Accessibility - GeeksforGeeks
